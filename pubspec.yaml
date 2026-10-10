@@ -1,0 +1,39 @@
+name: carwash_reservation
+description: "Carwash Service Reservation, Rewards, and E-Commerce Mobile App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Core, Auth & Storage
+  firebase_core: ^3.12.0
+  firebase_auth: ^5.5.0
+  cloud_firestore: ^5.6.0
+  firebase_storage: ^12.4.0
+  google_sign_in: ^6.2.1
+
+  # Image Picker for Payment Receipts
+  image_picker: ^1.1.2
+
+  # State Management & DI
+  provider: ^6.1.2
+
+  # UI Tools
+  google_fonts: ^6.2.1
+  flutter_spinkit: ^5.2.1
+  http: ^1.6.0
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^7.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

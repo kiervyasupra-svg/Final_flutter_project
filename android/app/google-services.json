@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074444944644",
+    "project_id": "notesss-78b30",
+    "storage_bucket": "notesss-78b30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074444944644:android:c6a9e50c0b9c89a7a5bc51",
+        "android_client_info": {
+          "package_name": "com.example.carwash_reservation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATPpk72uEe1zkxf1rh0Zs9QEUuOQFYexI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
